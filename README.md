@@ -6,7 +6,7 @@ A novel CNN called the 3-D Hyper-UNET for Hyperspectral Image Segmentation. It u
 
 ## Model
 
-<img src="https://github.com/nishchaljs/3D-Hyper-UNET/blob/main/3D_Unet_Mod.png" width="50%" height="50%" />
+<div align="center"><img src="https://github.com/nishchaljs/3D-Hyper-UNET/blob/main/3D_Unet_Mod.png" width="50%" height="50%" /></div>
 
 Fig: Proposed 3D-Hyper-UNET Model with 3D convolutions for hyperspectral image (HSI) classification.  
 
@@ -18,9 +18,7 @@ Fig: Proposed 3D-Hyper-UNET Model with 3D convolutions for hyperspectral image (
 
 ## Results
 
-### Indian Pines (IP) dataset
-
-<img src="https://github.com/nishchaljs/3D-Hyper-UNET/blob/main/results.png"/>
+<div align="center"><img src="https://github.com/nishchaljs/3D-Hyper-UNET/blob/main/results.png"/></div>
 
 
 #### Detailed results can be found in the [RVCE_ISRO_Paper](RVCE_ISRO_Paper.pdf)
