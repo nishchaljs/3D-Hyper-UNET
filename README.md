@@ -2,7 +2,8 @@
 
 ## Description
 
-A novel CNN called the 3-D Hyper-UNET for Hyperspectral Image Segmentation. It utilises the spatial and spectral features of HSI using 3-D convolutions to analyse and provide better results.  
+A novel CNN called the 3-D Hyper-UNET for Hyperspectral Image Segmentation. It utilises the spatial and spectral features of HSI using 3-D convolutions to analyse and provide better results.
+3D convolutions is a relatively new technique used in the domain of hyperspectral data classification, however, there is no dedicated model for segmentation tasks of HSI data. The 3D Hyper-UNET model proposed here is partly inspired from the UNET architecture, with an additional feature of 3D convolution and the 3D transpose convolution layers.
 
 ## Model
 
