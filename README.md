@@ -1,5 +1,4 @@
 # 3D-Hyper-UNET for Hyperspectral Image Classification.
-![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/hybridsn-exploring-3d-2d-cnn-feature/hyperspectral-image-classification-on-indian)
 
 ## Description
 
@@ -7,21 +6,19 @@ A novel CNN called the 3-D Hyper-UNET for Hyperspectral Image Segmentation. It u
 
 ## Model
 
-<img src="figure/HSI-RN.jpg"/>
+<div align="center"><img src="https://github.com/nishchaljs/3D-Hyper-UNET/blob/main/3D_Unet_Mod.png" width="50%" height="50%" /></div>
 
 Fig: Proposed 3D-Hyper-UNET Model with 3D convolutions for hyperspectral image (HSI) classification.  
 
 ## Prerequisites
 
-- [Anaconda 2.7](https://www.anaconda.com/download/#linux)
-- [Tensorflow 1.3](https://github.com/tensorflow/tensorflow/tree/r1.3)
-- [Keras 2.0](https://github.com/fchollet/keras)
+- [Anaconda](https://www.anaconda.com/download/)
+- [Tensorflow](https://github.com/tensorflow/tensorflow/)
+- [Keras](https://github.com/fchollet/keras)
 
 ## Results
 
-### Indian Pines (IP) dataset
-
-<img src="figure/IP-FC.jpg" width="200" height="200"/> <img src="figure/IP-GT.jpg" width="200" height="200"/> <img src="figure/IP-Pr.jpg" width="200" height="200"/> <img src="figure/IP_legend.jpg" width="250" height="150"/>
+<div align="center"><img src="https://github.com/nishchaljs/3D-Hyper-UNET/blob/main/results.png"/></div>
 
 
 #### Detailed results can be found in the [RVCE_ISRO_Paper](RVCE_ISRO_Paper.pdf)
